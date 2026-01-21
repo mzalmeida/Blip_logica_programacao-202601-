@@ -1,6 +1,6 @@
 # Blip - Lógica de Programação
 
-![Badge do curso](./06 - Images/badge.png)
+![Badge do curso](./06 - Images/blip.png)
 
 
 
