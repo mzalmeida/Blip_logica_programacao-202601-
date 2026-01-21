@@ -43,5 +43,8 @@ Ao final desta jornada, você terá desenvolvido habilidades essenciais para:
 
 ---
 
-## 📌 Observação
-Este README será exibido na página inicial do repositório, junto com o badge do curso.
+## 🔗 Conecte-se comigo
+
+-   **LinkedIn:**
+    https://www.linkedin.com/in/mateus-zilio-de-almeida-2a9a928b/\
+-   **E-mail:** mateuszilio21@gmail.com
