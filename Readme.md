@@ -1,6 +1,6 @@
 # Blip - Lógica de Programação
 
-<img src="06%20-%20Images/logo.png" width="400px" alt="Logo"/>
+<img src="06%20-%20Images/logo.png" width="600px" alt="Logo"/>
 
 
 ## 📚 Sobre o curso
