@@ -22,14 +22,19 @@ faça uma visao macro de um app que solicite viagens de veiculos online
 ![Wallpaper](shapes.webp)
 
 Questions:
+
 Em uma condição normal, qual a ordem de execução de processos ?
+
 INPUT / PROCESS/ OUTPUT
 
 O que é um INPUT ?
+
 É qualquer entrada de dados ou interação do usuário
 
 O que é a etapa de process ?
+
 É o momento aonde validações, transformações e ações são executadas com base em um input recebido
 
 O que é a etapa de output ?
+
 É um comando para imprimir texto na tela ou o retorno para outra parte da aplicação

@@ -20,6 +20,7 @@
 
 
 - Vetores
+
 let nomesPokemon = ["Pikachu" , "Chamander", "Bulbassaur"]
 console.log(" O pokemon " + nomesPokemon[0])
 
@@ -47,15 +48,19 @@ console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " +  timePokemon[1]
 Quetions
 
 O que é uma matriz?
+
 É uma estrutura de dados bidimensional que armazena valores em linhas e colunas
 
 O que é um vetor?
+
 É uma estrutura de dados que armazena uma coleção ordenada de elementos do mesmo tipo
 
 Quando utilizar um vetor?
+
 Quando você precisa armazenar uma coleção de elementos
 
 Por que utilizar matrizes em programação?
+
 Para representar dados de duas dimensões, como tabelas
 
 

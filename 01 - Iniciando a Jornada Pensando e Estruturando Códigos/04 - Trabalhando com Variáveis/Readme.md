@@ -115,15 +115,19 @@ let recebePensao    = true
 Questions:
 
 Qual dos tipos abaixo NÃO é um tipo de variável ?
+
 dumper
 
 Qual das opções abaixo é uma afirmação verdadeira ?
+
 Variáveis é um conceito universal da computação
 
 O que guarda o tipo string ?
+
 Texto
 
 O que são variáveis ?
+
 Pequenos espaços na memória de uma aplicação para armazenar algum valor
 
 
