@@ -89,5 +89,5 @@ Maior ou igual a (greater than or equal to)
 
 
 
-![Wallpaper](oper_aritimeticos.png)
+![Wallpaper](comparacao.png)
 
