@@ -112,6 +112,7 @@ Executar um bloco de código quando a condição do "if" não é verdadeira
 Como você escreve uma estrutura condicional "if" em programação?
 
 if (condição) {
+```
 
 
 ![Wallpaper](estr_condicionais.png)
