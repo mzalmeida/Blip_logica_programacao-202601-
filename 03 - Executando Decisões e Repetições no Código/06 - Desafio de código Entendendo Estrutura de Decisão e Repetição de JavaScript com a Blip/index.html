@@ -1,0 +1,42 @@
+<!-- 
+Diferença principal:
+- No terminal (Node.js) → usa readline.
+- No navegador (HTML/JS) → usa input + document.getElementById para capturar valores.
+-->
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Controle do Bot</title>
+</head>
+<body>
+  <h2>Digite um comando para o Bot</h2>
+  
+  <input id="comando" type="text" placeholder="start, stop, pause">
+  <button onclick="executarComando()">Enviar</button>
+  
+  <p id="resultado"></p>
+
+  <script>
+    function executarComando() {
+      let comando = document.getElementById("comando").value.toLowerCase();
+      let resultado = "";
+
+      if (comando === "start") {
+        resultado = "Bot started";
+      } else if (comando === "stop") {
+        resultado = "Bot stopped";
+      } else if (comando === "pause") {
+        resultado = "Bot paused";
+      } else {
+        resultado = "Unknown command";
+      }
+
+      document.getElementById("resultado").innerText = resultado;
+    }
+  </script>
+</body>
+</html>
