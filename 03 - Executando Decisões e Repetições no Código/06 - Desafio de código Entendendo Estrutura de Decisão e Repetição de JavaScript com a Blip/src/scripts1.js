@@ -67,7 +67,7 @@ if (entrada === "start") {
   print("Bot paused");
 
 } else {
-  print("Unknown command");
+  print("unknown command");
 }
 
 // TODO: Use estruturas condicionais para imprimir a resposta correta de acordo com o comando recebido
