@@ -95,4 +95,22 @@ function sendToDataBase(){
 # Identacao
 é preciso sempre dar um tab conforme as chaves abertas(TAB)
 
+# Questions
+
+Qual é o principal objetivo de usar funções em programação? R:
+Promover a reutilização de código e modularizar a lógica em partes gerenciáveis
+
+Qual é a diferença entre uma chamada de função e uma declaração de função? R:
+Uma declaração de função cria uma função, enquanto uma chamada de função executa o código dentro dela
+
+O que é uma função em programação? R:
+Um bloco de código reutilizável que executa uma tarefa específica quando chamado
+
+Qual afirmação é verdadeira ? R:
+Funções criam um pequeno mecanismo inteligente para processar algo no meio da aplicação
+
+
+
+
+
 ![Wallpaper](funcoes.png)
